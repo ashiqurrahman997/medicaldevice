@@ -1,0 +1,88 @@
+{
+  "login": [
+    {
+      "email": "Mozell.Jacobi@yahoo.com",
+      "password": "password"
+    }
+  ],
+  "devicetype": [
+    {
+      "TypeName": "Testing Devices "
+    },
+    {
+      "TypeName": "Oparation  Devices"
+    },
+    {
+      "TypeName": "Hospital  Devices"
+    }
+  ],
+  "TestingDevices": [
+    {
+      "TypeId": "Xrfp1",
+      "Name": "X-Ray Film processor tabletop ",
+      "BrandName": "X-Ray123",
+      "Price": "$2200",
+      "Description": "Processing machine for X-ray films from 13x18 cm. 18x24 cm.24x30cm.30x40cm.35.6x35.6 cm. 35x43cm.Capacity at least 60 films per hour tandard Equipment: Processor + set of 3 replenish bottles Accessories: Water supply connection with shut-off valve , Filter , Light-tight cover , Processor stand Automatic stand-by mode.Automatic film detection Power Requirements :220 VAC ±10 % 50 Hz ."
+    },
+    {
+      "TypeId": "Xrfv1",
+      "Name": "X-ray Film Viewer ",
+      "BrandName": "USFDA",
+      "Price": "$2500",
+      "Description": "X-ray Film Illuminator (Viewer) . 2 Fields . Wall-Mount Diffuse, uniform, flicker free illumination Transparent Spring-loaded film Retainers shall grip lightly and firmly without obscuring top edge details Screen shall be recessed into the cabinet to help keep the interior dust free and eliminate side light spill. The film retainers shall always operate effectively maintaining an even pressure across the full width of the illuminator.Direct Starting , Luminous Source : Daylight Command and Control on Front Side. Bipolar Switch with Pilot lamp  Wall Fixations shall be provided for . Cord , Local Plug  Power Supply : 220V/50Hz CE; EC Marked US FDA; ISO certification "
+    },
+    {
+      "TypeId": "XrU1",
+      "Name": "X-Ray Unit Universal ",
+      "BrandName": "XU123",
+      "Price": "$3500",
+      "Description": " Universal, Remote controlled Universal Unit Processor controlled, Mixed Cassette’s Radiography and Digital Fluoroscopy screening System. Overhead Tube on the freely moving Tube Arm without floor mounted column.The System to be suitable for Standard Skeletal and Radiographic Examinations, Including Lateral Exposures and Oblique Beam Projections Fully Automatic Under Table Spot Film Device for Cassette Radiography with Extensive Range of Cassettes, Grids and Attachments for Image Intensifier. Free Cassette Exposures on Table, Floor, Wheelchair or Gurney. Table.Tilt: Motor Driven, +90º to -15º, automatic stop in horizontal position Height: approximately 85 cm.Tabletop Outside Dimensions: length approximately 200cm,Width approximately 80cm Radiolucent: not less than 190cm x 55cm. Longitudinal Travel: Motor Driven, at least 160 cm  Transverse Travel: at least 20 cm Patient Weight: at least 200 kg. Tube Assembly.Max. exposure voltage : 150 kV Anode heat dissipation rate at least 30 kW for small focus and 60 kW for large focus Anode heat storage capacity at least 500 kHU  Dual focus 0.6 mm and 1 mm Complete filtration W ≥ 2.5 mm Al Focus-Film Distance (SID) Fixed Variable : 115cm / 150cm. 115cm and 150cm must be set by Motor Driven with Adjustment Speed Oblique Projections: max.-40º-+40º ( SID 115cm.) and -35º-+35º (SID 150cm), Automatic Parallax Compensation Between Cassette and Image Intensifier Input Screen in Central Ray. "
+    }
+  ],
+  "OperationDevices": [
+    {
+      "TypeId": "Otl1",
+      "Name": "Operating theatre light (5 spotlights) ",
+      "BrandName": "X-Ray123",
+      "Price": "$2200",
+      "Description": "Processing machine for X-ray films from 13x18 cm. 18x24 cm.24x30cm.30x40cm.35.6x35.6 cm. 35x43cm.Capacity at least 60 films per hour tandard Equipment: Processor + set of 3 replenish bottles Accessories: Water supply connection with shut-off valve , Filter , Light-tight cover , Processor stand Automatic stand-by mode.Automatic film detection Power Requirements :220 VAC ±10 % 50 Hz ."
+    },
+    {
+      "TypeId": "Xrfv1",
+      "Name": "Operating Table (Multifunction, electric/hydraulic driven)",
+      "BrandName": "USFDA",
+      "Price": "$1500",
+      "Description": "X-ray Film Illuminator (Viewer) . 2 Fields . Wall-Mount Diffuse, uniform, flicker free illumination Transparent Spring-loaded film Retainers shall grip lightly and firmly without obscuring top edge details Screen shall be recessed into the cabinet to help keep the interior dust free and eliminate side light spill. The film retainers shall always operate effectively maintaining an even pressure across the full width of the illuminator.Direct Starting , Luminous Source : Daylight Command and Control on Front Side. Bipolar Switch with Pilot lamp  Wall Fixations shall be provided for . Cord , Local Plug  Power Supply : 220V/50Hz CE; EC Marked US FDA; ISO certification "
+    },
+    {
+      "TypeId": "XrU1",
+      "Name": "Syringe pump ",
+      "BrandName": "XU123",
+      "Price": "$5500",
+      "Description": " Universal, Remote controlled Universal Unit Processor controlled, Mixed Cassette’s Radiography and Digital Fluoroscopy screening System. Overhead Tube on the freely moving Tube Arm without floor mounted column.The System to be suitable for Standard Skeletal and Radiographic Examinations, Including Lateral Exposures and Oblique Beam Projections Fully Automatic Under Table Spot Film Device for Cassette Radiography with Extensive Range of Cassettes, Grids and Attachments for Image Intensifier. Free Cassette Exposures on Table, Floor, Wheelchair or Gurney. Table.Tilt: Motor Driven, +90º to -15º, automatic stop in horizontal position Height: approximately 85 cm.Tabletop Outside Dimensions: length approximately 200cm,Width approximately 80cm Radiolucent: not less than 190cm x 55cm. Longitudinal Travel: Motor Driven, at least 160 cm  Transverse Travel: at least 20 cm Patient Weight: at least 200 kg. Tube Assembly.Max. exposure voltage : 150 kV Anode heat dissipation rate at least 30 kW for small focus and 60 kW for large focus Anode heat storage capacity at least 500 kHU  Dual focus 0.6 mm and 1 mm Complete filtration W ≥ 2.5 mm Al Focus-Film Distance (SID) Fixed Variable : 115cm / 150cm. 115cm and 150cm must be set by Motor Driven with Adjustment Speed Oblique Projections: max.-40º-+40º ( SID 115cm.) and -35º-+35º (SID 150cm), Automatic Parallax Compensation Between Cassette and Image Intensifier Input Screen in Central Ray. "
+    }
+  ],
+  "HospitalDevices": [
+    {
+      "TypeId": "Otl1",
+      "Name": "Ventilator ICU ",
+      "BrandName": "X-Ray123",
+      "Price": "$1200",
+      "Description": "Processing machine for X-ray films from 13x18 cm. 18x24 cm.24x30cm.30x40cm.35.6x35.6 cm. 35x43cm.Capacity at least 60 films per hour tandard Equipment: Processor + set of 3 replenish bottles Accessories: Water supply connection with shut-off valve , Filter , Light-tight cover , Processor stand Automatic stand-by mode.Automatic film detection Power Requirements :220 VAC ±10 % 50 Hz ."
+    },
+    {
+      "TypeId": "Xrfv1",
+      "Name": "Pulsoximeter",
+      "BrandName": "USFDA",
+      "Price": "$500",
+      "Description": "Real-time SpO2%  Oxygen Saturation Range (%SpO2) Measurement range at least 70-99% Accuracy (%SpO2) ±2% at100%~80%, ±3% at 80%~70% Real-time heart rate (BPM) Pulse Measurement range 30-250 bpm Accuracy ± 1 bpm at 30~250 bpm Display SpO2,Pulse rate, Pulse signal wave, Max/Min setup (SpO2% / BPM) Power Requirements internal rechargeable battery providing an operating time of at least 8 hours Compact design for easy transportability Accessories: 3 rolls of paper Operation manual 1 adult reusable finger Sensor 1 Neonate Sensor Standards CE; EC Marked US FDA; ISO certification "
+    },
+    {
+      "TypeId": "OxC1",
+      "Name": "Oxygen Concentrator ",
+      "BrandName": "USFDA",
+      "Price": "$300",
+      "Description": "Compact and easy to transport oxygen concentrator ( Mobile on Castors ) The Oxygen Concentrator shall feature a dual-head Compressor. One head producing. Capacity : 1 to 5 l/Mn of O2 at 90% minimum at maximum flow  Pressure-compensated Flowmeter shall permit use of long canula while maintaining accurate flow setting. Safety Alarms: Audible and visual : Power Failure , Restricted Flow , , Low O2 Pressure-relief Valve and thermal protection of the Compressor Double-insulated Unit , Two-prong plug Flame-retardant Cabinet Sound Level (ANSI): 50 dB average Fixed humidifer Port and Recess shall prevent bottle and connector breakage  Power Requirements: 220 VAC,50 Hz Accessories : O2 Tubing , 3 Face Masks ( Adult , Infant , New Born ), Humidifier , Set of Filters Standards CE; EC Marked US FDA;"
+    }
+  ]
+}

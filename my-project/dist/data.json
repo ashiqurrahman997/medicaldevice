@@ -1,0 +1,22 @@
+{
+  "login": [
+    {
+      "email": "Mozell.Jacobi@yahoo.com",
+      "password": "password"
+  }
+  ],
+
+  "devicetype": [
+    {
+      "TypeName": "Testing Devices "
+    },
+    {
+      "TypeName": "Oparation  Devices"
+    },
+    {
+      "TypeName": "Hospital  Devices"
+    }
+   
+  ]
+  
+}
